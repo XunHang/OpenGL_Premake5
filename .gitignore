@@ -1,0 +1,10 @@
+/.vs/
+/bin/
+/bin-int/
+/*.sln
+/SandBox/*.vcxproj
+/SandBox/*.user
+/SandBox/vendor/*.vcxproj
+/SandBox/vendor/*.filters
+/SandBox/vendor/bin-int
+/SandBox/vendor/bin
